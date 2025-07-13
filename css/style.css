@@ -127,6 +127,9 @@
 
 .left__link {
     fill: var(--first-color);
+    color: #fff;
+    text-decoration: none;
+    font-style: italic;
 }
 
 .left__nav--infoContact {
@@ -165,7 +168,7 @@
 }
 
 .side__right--info {
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
 
 .side__right--paragraf {
@@ -175,6 +178,10 @@
 .side__right--list {
     margin-left: 1.1rem;
     font-size: .8em;
+}
+
+.imgIcon {
+    width: 2rem;
 }
 
 
